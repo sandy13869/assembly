@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "address": {
+            "street": "123 Elm St",
+            "city": "Somewhere",
+            "zipcode": "12345"
+        },
+        "phones": [
+            {
+                "type": "home",
+                "number": "555-555-5555"
+            },
+            {
+                "type": "work",
+                "number": "555-555-5556"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "address": {
+            "street": "456 Oak St",
+            "city": "Anywhere",
+            "zipcode": "67890"
+        },
+        "phones": [
+            {
+                "type": "home",
+                "number": "555-555-5557"
+            }
+        ]
+    }
+]
